@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tkcaluag/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/tkcaluag/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tkcaluag/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/tkcaluag/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tkcaluag/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tkcaluag/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/tkcaluag/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tkcaluag/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/tkcaluag/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tkcaluag/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tkcaluag/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/tkcaluag/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tkcaluag/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/tkcaluag/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
