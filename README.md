@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tkcaluag/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/tkcaluag/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tkcaluag/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/tkcaluag/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tkcaluag/LeetCode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/tkcaluag/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
