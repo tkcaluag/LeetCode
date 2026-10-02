@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tkcaluag/LeetCode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/tkcaluag/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/tkcaluag/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/tkcaluag/LeetCode/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tkcaluag/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tkcaluag/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/tkcaluag/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/tkcaluag/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/tkcaluag/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tkcaluag/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/tkcaluag/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
