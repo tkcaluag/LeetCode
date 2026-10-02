@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tkcaluag/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tkcaluag/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/tkcaluag/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tkcaluag/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tkcaluag/LeetCode/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/tkcaluag/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tkcaluag/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tkcaluag/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tkcaluag/LeetCode/tree/master/0994-rotting-oranges) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tkcaluag/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
