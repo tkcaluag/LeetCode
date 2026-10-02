@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tkcaluag/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tkcaluag/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/tkcaluag/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tkcaluag/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/tkcaluag/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tkcaluag/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tkcaluag/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/tkcaluag/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tkcaluag/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
