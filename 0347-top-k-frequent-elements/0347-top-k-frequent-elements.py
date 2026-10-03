@@ -6,7 +6,7 @@ class Solution:
 
         for num, count in freq.items():
             buckets[count].append(num)
-        
+
         result = []
 
         for i in range(len(buckets) - 1, -1, -1):
@@ -14,4 +14,5 @@ class Solution:
                 result.append(num)
                 if len(result) == k:
                     return result
+
         return result
