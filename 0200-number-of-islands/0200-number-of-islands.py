@@ -23,3 +23,4 @@ class Solution:
                     count += 1
                     dfs(r, c)
         return count
+
