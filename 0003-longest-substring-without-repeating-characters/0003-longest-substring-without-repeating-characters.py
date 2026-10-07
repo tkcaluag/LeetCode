@@ -9,4 +9,5 @@ class Solution:
                 left = last_seen[char] + 1
             last_seen[char] = right
             max_len = max(max_len, right - left + 1)
+
         return max_len
